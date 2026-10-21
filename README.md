@@ -8,3 +8,8 @@
 - GitHub
 - CompTIA A+
 - Git
+
+## Next steps
+- branch
+- pull request
+- write Markdown
