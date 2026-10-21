@@ -1,8 +1,9 @@
 # Learning Log
 
 ## Goal
-(one or two sentences: what you're learning and why)
+- to understand how GitHub works
+- how to write correct commits
 
 ## What I'm learning
-- QA testing
-- Git
+- GitHub
+- CompTIA A+
