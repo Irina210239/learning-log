@@ -7,3 +7,4 @@
 ## What I'm learning
 - GitHub
 - CompTIA A+
+- Git
